@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classer les Musiques</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Classer les Musiques</h1>
+    <div id="duel-container">
+        <div id="music1">
+            <p>Musique 1: <span id="music1-name"></span></p>
+            <audio id="music1-player" controls>
+                <source id="music1-source" type="audio/mpeg">
+            </audio>
+        </div>
+
+        <div id="music2">
+            <p>Musique 2: <span id="music2-name"></span></p>
+            <audio id="music2-player" controls>
+                <source id="music2-source" type="audio/mpeg">
+            </audio>
+        </div>
+
+        <button id="choose-music1">Choisir Musique 1</button>
+        <button id="choose-music2">Choisir Musique 2</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
