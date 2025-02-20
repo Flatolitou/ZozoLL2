@@ -355,7 +355,11 @@ function selectOption(type, element) {
 }
 
 function copyToClipboard() {
-    const textToCopy = sortedIndexList[0].map(num => num + 1).join("\n");
+    const ranksByID = [];
+    musicData.forEach(music => {
+        ranksByID.push(sortedIndexList[0].indexOf(music.id - 1) + 1);
+    });
+    const textToCopy = ranksByID.join("\n");
     navigator.clipboard.writeText(textToCopy).then(() => {
         alert("Copied ranks to clipboard !");
     }).catch(err => {
