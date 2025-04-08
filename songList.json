@@ -2,239 +2,232 @@
     {
         "id": 1,
         "anime": "Love Live",
-        "name": "KA-GA-YA-KI-RA-RI-RA by Aqours feat. Hatsune Miku",
-        "video": "https://www.youtube.com/watch?v=HnsDEV7us08",
-        "mp3": null
+        "name": "Ai♡Scream!” by AiScReam",
+        "video": "https://youtu.be/3yaab2_EEHM?si=ftblWGfDngSRRQXC",
+        "mp3": "https://youtu.be/3yaab2_EEHM?si=IfkM63FztryUZwMt"
     },
     {
         "id": 2,
         "anime": "Love Live",
-        "name": "Aozora wo Matteru by Sayuri Date",
-        "video": "https://www.youtube.com/watch?v=ElmguCA0SuI",
-        "mp3": null
+        "name": "After The Rain by Saint Snow",
+        "video": "https://www.youtube.com/watch?v=qi1Z8PYbCys",
+        "mp3": "https://files.catbox.moe/v7o888.mp3"
     },
     {
         "id": 3,
         "anime": "Love Live",
-        "name": "Beginner's Sailing by Shuka Saito",
-        "video": "https://www.youtube.com/watch?v=rBnQNJbxa_Q",
+        "name": "Aion no Uta by Maria Sashide",
+        "video": "https://youtu.be/f1TUC_Ew-3Q?si=6q522tdMAbK-Ujzg",
         "mp3": null
     },
     {
         "id": 4,
         "anime": "Love Live",
-        "name": "Binetsu Kara no Mystery by Lily White",
-        "video": "https://www.youtube.com/watch?v=QUTZwSodwJc",
-        "mp3": null
+        "name": "Awaken the power by Saint Aqours Snow",
+        "video": "https://youtu.be/APoKMSuSXlM?si=Yq7cmXqkvINYoSgb",
+        "mp3": "https://youtu.be/APoKMSuSXlM?si=Yq7cmXqkvINYoSgb"
     },
     {
         "id": 5,
         "anime": "Love Live",
-        "name": "CHASE! by Tomori Kusunoki",
-        "video": "https://www.youtube.com/watch?v=5R1l0xrtVOc",
-        "mp3": null
+        "name": "BIBBIDIBA by Kozusu Kachimachi (CV: Fuuka Hayama)",
+        "video": "https://youtu.be/hcGJgK0ndJ0?si=HlcdF7FPKusor94f",
+        "mp3": "https://youtu.be/hcGJgK0ndJ0?si=HlcdF7FPKusor94f"
     },
     {
         "id": 6,
         "anime": "Love Live",
-        "name": "Colorful Dreams! Colorful Smiles! by Nijigasaki Gakuen School Idol Doukoukai",
-        "video": "https://www.youtube.com/watch?v=CDPOUZWfwsA",
+        "name": "Cherry Bomb by Coco Hayashi",
+        "video": "https://www.youtube.com/watch?v=FZBVAB_dKz8",
         "mp3": null
     },
     {
         "id": 7,
         "anime": "Love Live",
-        "name": "Cutie Panther (Metal-Panther Mix) by Bibi",
-        "video": "https://www.youtube.com/watch?v=bgVyl2Gj540",
-        "mp3": null
+        "name": "Dear my future by Cerise Bouquet",
+        "video": "https://www.youtube.com/watch?v=gme_Ns-ceQ4&ab_channel=CeriseBouquet-Topic",
+        "mp3": "https://www.youtube.com/watch?v=gme_Ns-ceQ4&ab_channel=CeriseBouquet-Topic"
     },
     {
         "id": 8,
         "anime": "Love Live",
-        "name": "Datte Datte Aa Mujou by µ's",
-        "video": "https://www.youtube.com/watch?v=qIaYhwkrNdI",
-        "mp3": null
+        "name": "Deep Resonance by Aqours",
+        "video": "https://www.youtube.com/watch?v=_csrXZNMEIQ",
+        "mp3": "https://www.youtube.com/watch?v=_csrXZNMEIQ"
     },
     {
         "id": 9,
         "anime": "Love Live",
-        "name": "Daydream Warrior by Aqours",
-        "video": "https://www.youtube.com/watch?v=9NOE0rXp8_Q",
+        "name": "DROPOUT!? by Saint Snow",
+        "video": "https://www.youtube.com/watch?v=OkXsedymTxc",
         "mp3": null
     },
     {
         "id": 10,
         "anime": "Love Live",
-        "name": "Deep Sea Cocoon by Guilty Kiss",
-        "video": "https://www.youtube.com/watch?v=UN-DsxXKAiw",
-        "mp3": null
+        "name": "Eieisa by Kaori Maeda",
+        "video": "https://www.youtube.com/watch?v=L7OXv_BXN5Y",
+        "mp3": "https://www.youtube.com/watch?v=L7OXv_BXN5Y"
     },
     {
         "id": 11,
         "anime": "Love Live",
-        "name": "DEEPNESS by Hasu no Sora Jogakuin School Idol Club",
-        "video": "https://www.youtube.com/watch?v=rFu_T2qZA-M",
+        "name": "Eternal Light by Diver Diva",
+        "video": "https://youtu.be/DfQ4Fuu810U",
         "mp3": null
     },
     {
         "id": 12,
         "anime": "Love Live",
-        "name": "GALAXY HidE and SeeK by AZALEA",
-        "video": "https://www.youtube.com/watch?v=UJln5-o8jqg",
-        "mp3": null
+        "name": "Eutopia by Lanzhu Zhong",
+        "video": "https://youtu.be/Z2P818AAOn8?si=h0NxUgRsS0ekRl6W",
+        "mp3": "https://naedist.animemusicquiz.com/nhmhcb.mp3"
     },
     {
         "id": 13,
         "anime": "Love Live",
-        "name": "GAME ON! by Aqours",
-        "video": "https://www.youtube.com/watch?v=4UXmyfnHZeI",
+        "name": "Far far away by Aika Kobayashi",
+        "video": "https://youtu.be/Wx7ss-cxaKw?si=a2ihUV5qXJI0Tt7h",
         "mp3": null
     },
     {
         "id": 14,
         "anime": "Love Live",
-        "name": "Genyou Yakou by Cerise Bouquet",
-        "video": "https://www.youtube.com/watch?v=XYKceXnAFpQ",
-        "mp3": null
+        "name": "Fire Bird by Miyu Kubota",
+        "video": "https://www.youtube.com/watch?v=8bjQg-RUiRc",
+        "mp3": "https://www.youtube.com/watch?v=8bjQg-RUiRc"
     },
     {
         "id": 15,
         "anime": "Love Live",
-        "name": "Guilty Night, Guilty Kiss! by Guilty Kiss",
-        "video": "https://www.youtube.com/watch?v=zsly4OzCfuE",
+        "name": "Holiday∞Holiday by Cerise Bouquet ",
+        "video": "https://www.youtube.com/watch?v=IHSUgM4rVQg",
         "mp3": null
     },
     {
         "id": 16,
         "anime": "Love Live",
-        "name": "Identity by Mira-Cra Park!",
-        "video": "https://www.youtube.com/watch?v=h8w8FFo1u9E",
-        "mp3": null
+        "name": "in this unstable world by Aika Kobayashi",
+        "video": "https://www.youtube.com/watch?v=bc0dF6XPeHY",
+        "mp3": "https://www.youtube.com/watch?v=bc0dF6XPeHY"
     },
     {
         "id": 17,
         "anime": "Love Live",
-        "name": "INNOCENT BIRD by AZALEA ",
-        "video": "https://www.youtube.com/watch?v=SPh7tyj2Ipw",
-        "mp3": null
+        "name": "Jump up HIGH!! by Aqours",
+        "video": "https://youtu.be/NziEaNeMekE",
+        "mp3": "https://youtu.be/NziEaNeMekE"
     },
     {
         "id": 18,
         "anime": "Love Live",
-        "name": "Jellyfish by 5yncri5e!",
-        "video": "https://www.youtube.com/watch?v=ZvZQmTe8LhI",
+        "name": "Kowareyasuki by Guilty Kiss",
+        "video": "https://youtu.be/nTZWmPVtkqI?si=bPAD2TDo15TfAAL4",
         "mp3": null
     },
     {
         "id": 19,
         "anime": "Love Live",
-        "name": "Ketsui no Hikari by Moeka Koizumi",
-        "video": "https://www.youtube.com/watch?v=I8JYMvUpTI4",
-        "mp3": null
+        "name": "KU-RU-KU-RU Cruller! by Aqours",
+        "video": "https://naedist.animemusicquiz.com/c3a0oa.webm",
+        "mp3": "https://naedist.animemusicquiz.com/yxqn9h.mp3"
     },
     {
         "id": 20,
         "anime": "Love Live",
-        "name": "KEY of Like! by Cerise Bouquet & DOLLCHESTRA & Mira-Cra Park!",
-        "video": "https://www.youtube.com/watch?v=9bYIbe4uzIQ",
+        "name": "L！L！L！ (Love the Life We Live) by Nijigasaki High School Idol Club",
+        "video": "https://youtu.be/wc3cfiS0VaQ",
         "mp3": null
     },
     {
         "id": 21,
         "anime": "Love Live",
-        "name": "Makka by Liella!",
-        "video": "https://www.youtube.com/watch?v=h7dyqVTGPwA",
-        "mp3": null
+        "name": "LADYBUG by DOLLCHESTRA",
+        "video": "https://youtu.be/gSPYSHOANaI?si=hNdapvbkWVBNEsJy",
+        "mp3": "https://files.catbox.moe/u4u57x.mp3"
     },
     {
         "id": 22,
         "anime": "Love Live",
-        "name": "Mattete Ai no Uta by Aqours",
-        "video": "https://www.youtube.com/watch?v=XD-vjznVNXs",
-        "mp3": null
+        "name": "Love marginal by Printemps",
+        "video": "https://www.youtube.com/watch?v=0yrU8z6bGGg",
+        "mp3": "https://files.catbox.moe/bh1ezj.mp3"
     },
     {
         "id": 23,
         "anime": "Love Live",
-        "name": "MIRACLE NEW STORY by Liella",
-        "video": "https://www.youtube.com/watch?v=e7Tlj7EW6FQ",
-        "mp3": null
+        "name": "LOVELESS WORLD by μ’s",
+        "video": "https://youtu.be/GQqULc3543s",
+        "mp3": "https://youtu.be/GQqULc3543s"
     },
     {
         "id": 24,
         "anime": "Love Live",
-        "name": "MOMENT RING by μ’s",
-        "video": "https://www.youtube.com/watch?v=Y8H_WPQjUNc",
+        "name": "Maze Town by A・ZU・NA",
+        "video": "https://www.youtube.com/watch?v=FE2ykAqHdEc",
         "mp3": null
     },
     {
         "id": 25,
         "anime": "Love Live",
-        "name": "Neutral by KALEIDOSCORE",
-        "video": "https://www.youtube.com/watch?v=w-QCDkghDpQ",
+        "name": "Miracle Shopping ~Don Quijote no Theme~ by Mira-Cra Park!",
+        "video": "https://www.youtube.com/watch?v=r4QZzPCKbJM",
         "mp3": null
     },
     {
         "id": 26,
         "anime": "Love Live",
-        "name": "PHOENIX by Akina Homoto",
-        "video": "https://www.youtube.com/watch?v=dZO-IOpx1VY",
-        "mp3": null
+        "name": "Mitaiken HORIZON by Aqours",
+        "video": "https://www.youtube.com/watch?v=aL_3dVRDLPU",
+        "mp3": "https://files.catbox.moe/dlnb8z.mp3"
     },
     {
         "id": 27,
         "anime": "Love Live",
-        "name": "Snow halation by μ's",
-        "video": "https://naedist.animemusicquiz.com/qqazxo.webm",
-        "mp3": null
+        "name": "Muteki-kyuu*Believer by Mayu Sagara",
+        "video": "https://www.youtube.com/watch?v=iUv2QSYEdhk",
+        "mp3": "https://www.youtube.com/watch?v=-Li6HT1mv0U"
     },
     {
         "id": 28,
         "anime": "Love Live",
-        "name": "soldier game by Pile ,Suzuko Mimori ,Yoshino Nanjou",
-        "video": "https://www.youtube.com/watch?v=TA9x6Hpe9F4",
-        "mp3": null
+        "name": "Paradise Chime by Shuka Saitou",
+        "video": "https://youtu.be/csB3o8RJxLU?si=H9QkG81NS4BKOkGV",
+        "mp3": "https://youtu.be/csB3o8RJxLU?si=H9QkG81NS4BKOkGV"
     },
     {
         "id": 29,
         "anime": "Love Live",
-        "name": "Storm in Lover by Suzuko Mimori & Yoshino Nanjou",
-        "video": "https://www.youtube.com/watch?v=7W1QaMBLHls",
+        "name": "PSYCHIC FIRE by BiBi",
+        "video": "https://www.youtube.com/watch?v=zHuJijck8dY",
         "mp3": null
     },
     {
         "id": 30,
         "anime": "Love Live",
-        "name": "TO BE YOURSELF by Mayu Sagara",
-        "video": "https://www.youtube.com/watch?v=ZSLH00pSniQ",
-        "mp3": null
+        "name": "Reflection in the mirror by Cerise Bouquet",
+        "video": "https://youtu.be/eKSKavz2DcQ",
+        "mp3": "https://youtu.be/eKSKavz2DcQ"
     },
     {
         "id": 31,
         "anime": "Love Live",
-        "name": "Toutsuzen GIRL by Shuka Saitou",
-        "video": "https://www.youtube.com/watch?v=_qiUkzWeAPM",
-        "mp3": null
+        "name": "Tanoshii no Tensai by Natsumi Murakami",
+        "video": "https://www.youtube.com/watch?v=ZnyCUODvfKQ",
+        "mp3": "https://files.catbox.moe/gmev3x.mp3"
     },
     {
         "id": 32,
         "anime": "Love Live",
-        "name": "Tsunagaru Connect by Tanaka Chiemi",
-        "video": "https://www.youtube.com/watch?v=bFEQmHKxK_Q",
-        "mp3": null
+        "name": "Waaai Wai Wai Wai Wai Wai! by Shuka Saito, Aika Kobayashi & Ai Furihata",
+        "video": "https://youtu.be/FV36aGHP6WE?si=d0HE--JuMcuaBhoo",
+        "mp3": "https://youtu.be/h0Fp5uOkPQU?si=Yzzt3twoSlyFXFOu"
     },
     {
         "id": 33,
         "anime": "Love Live",
-        "name": "Yume ga Koko Kara Hajimaru yo by Nijigasaki High School Idol Club",
-        "video": "https://www.youtube.com/watch?v=02tMRFTzMlw",
-        "mp3": null
-    },
-    {
-        "id": 34,
-        "anime": "Love Live",
-        "name": "Zensoku Dreamer by Nijigasaki High School Idol Club",
-        "video": "https://www.youtube.com/watch?v=lGnNjhTRQVw",
+        "name": "Watashitachi wa Mirai no Hana by Suzuko Mimori",
+        "video": "https://youtu.be/C14xftSCLCA?si=U9pgxw_tfvMkheBG",
         "mp3": null
     }
 ]
